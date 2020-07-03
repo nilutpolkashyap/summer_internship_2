@@ -9,7 +9,7 @@ This is a project we made for our Summer Internship 2.
 4) Rahul Singh Rawat - 2018012555
 
 ## Team Mentor- 
-    Ms Jyotsna Seth
+  Ms Jyotsna Seth
 
 
 ## Features:
